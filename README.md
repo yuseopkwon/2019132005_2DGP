@@ -17,8 +17,8 @@
     - 캐릭터가 계단에서 떨어지지 않도록 빠르고 정확하게 방향을 바꿔야 합니다.
 
 ## 스크린샷
-![메인화면](assets/images/Main Scene_pre.jpg)
-![예상 중인 인게임 화면](assets/images/Game Scene_pre.jpg)
+![메인화면](assets/image/Main Scene_pre.jpg)
+![예상 중인 인게임 화면](assets/image/Game Scene_pre.jpg)
 
 ## 예상 게임 실행 흐름
 1. **게임 시작**: "시작" 버튼 또는 명령어를 입력하여 게임을 시작합니다.
