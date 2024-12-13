@@ -1,5 +1,8 @@
+
 # 2019132005_2DGP
 2024 2DGame_Programming_Project
+# 3차 최종 발표 영상 링크
+https://youtu.be/ZR67mN7gJS0
 
 # 인내의 숲 (Forest of Patience)
 
